@@ -15,7 +15,7 @@ class kardashian {
 	string birthLocation;
 public:
 	kardashian();
-	kardashian(string f, string l, int n, string j);
+	kardashian(string fName, string lName, int age, string birthLocation);
 };
 
 
