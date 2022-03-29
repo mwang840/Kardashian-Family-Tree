@@ -3,7 +3,7 @@ using namespace std;
 
 
 int main(){
-    bst *kardashianTree = new kardashianTree();
+    kardashian_tree *kardashians = new kardashian_tree();
     cout<<"Hello world!!";
     return 0;
 }
