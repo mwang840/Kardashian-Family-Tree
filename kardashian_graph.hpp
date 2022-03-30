@@ -27,8 +27,8 @@ public:
     kardashian_node *maxValNode(kardashian_node *n);
 	void setHeight(kardashian_node *n);
     int getBalance(kardashian_node *tmp);
-	TNode *rotateRight(TNode *tmp);
-	TNode *rotateLeft(TNode *tmp);
+	//kardashian_node *rotateRight(kardashian_node *tmp);
+	//kardashian_node *rotateLeft(kardashian_node *tmp);
 };
 
 
